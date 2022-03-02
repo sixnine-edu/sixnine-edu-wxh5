@@ -3,7 +3,7 @@
 ## 项目部分功能
 
 ### 课程列表
-![学堂](https://user-images.githubusercontent.com/19547692/156393904-1b092e6d-4d06-4eae-8144-0d7880779970.png)
+ <img src="https://user-images.githubusercontent.com/19547692/156393904-1b092e6d-4d06-4eae-8144-0d7880779970.png" width="375" height="667"/>
 
 
 ### 课程介绍
